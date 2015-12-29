@@ -6,7 +6,7 @@ Simple software for generate certificates for your events.
 
 How use
 ========
-Create your SVG file containing '___NAME___' where you want the name to be added.
+Create your SVG file containing ```bash ___NAME___ ``` where you want the name to be added.
 Then use:
 ```bash
 python g_certificates.py svg_file list_of_names folder
@@ -31,4 +31,4 @@ Screenshot
 
 Tip
 ========
-in case of problems with text, transform text into curves/lines except the '___NAME___'
+in case of problems with text, transform text into curves/lines except the ```bash '___NAME___' ```
