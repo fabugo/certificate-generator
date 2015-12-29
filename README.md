@@ -31,4 +31,4 @@ Screenshot
 
 Tip
 ========
-in case of problems with text, transform text into curves/lines except the ``` '___NAME___' ```
+in case of problems with text, transform text into curves/lines except the ``` ___NAME___ ```
